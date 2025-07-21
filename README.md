@@ -4,8 +4,8 @@ Welcome! This repo contains example scripts, a handout, and your first homework 
 
 ## 🛠️ Setup Instructions
 
-### 1. Open Unity and create a new project from the Learning templates` FPS Microgame.
-### 2. Drag the scripts from the `Scripts/` folder into your Unity project under `Assets/FPS/ASU_Basic_1/Scripts/`.
+### 1. Open Unity and the project you created for Week 1, or create a new project from the Learning templates` FPS Microgame.
+### 2. Drag the scripts from the `Scripts/` folder into your Unity project under `Assets/FPS/ASU_Basic_2/Scripts/`.
 > ✅ Unity will auto-compile these as soon as they’re inside the `Assets/` directory. A nice way to check is to see if Unity has created `.meta` files for each of the imported scripts on disk.
 
 ### 3. Setting Up Rider with Unity
@@ -22,7 +22,6 @@ Welcome! This repo contains example scripts, a handout, and your first homework 
 ## 📚 Contents
 
 - `Scripts/`: All demo scripts from the session
-- `Handout.pdf`: A condensed reference with key terms and setup
-- `Homework/`: Your first assignment
+- `Homework/`: Optional assignment for practice
 
 You're now ready to start scripting! Check the `Homework` folder to apply what you've learned.
